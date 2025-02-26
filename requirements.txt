@@ -1,3 +1,7 @@
 Flask
-Werkzeug
+gunicorn
 google-cloud-storage
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-generativeai
